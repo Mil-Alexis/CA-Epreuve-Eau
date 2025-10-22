@@ -7,3 +7,5 @@ def threeDigitsCombination():
 	return combinations
 
 print(threeDigitsCombination())
+
+#testt
