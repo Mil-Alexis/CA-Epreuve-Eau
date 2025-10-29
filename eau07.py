@@ -26,6 +26,8 @@ def alternateUpperAndLower(args: list):
 			if not isUpper:
 				string += char.upper()
 				isUpper = True
+			elif char == " ":
+				string += char
 			else:
 				string += char.lower()
 				isUpper = False
