@@ -1,5 +1,4 @@
 import sys
-import math
 
 def getArguments():
     args = sys.argv[1:]
